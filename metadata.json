@@ -1,0 +1,6 @@
+{
+  "name": "PennyWise",
+  "description": "Modern personal finance and expense tracker with budget analytics, category breakdowns, and monthly reports",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
